@@ -1,11 +1,3 @@
-package main
-
-import "fmt"
-
-func main() {
-	exercise1()
-}
-
 /**
 Section 5 -- 28. Hands-on exercise #1
 	1. Using the short declaration operator, ASSIGN these VALUES to VARIABLES with the IDENTIFIERS "x" and "y" and "z"
@@ -17,7 +9,11 @@ Section 5 -- 28. Hands-on exercise #1
 		* A single print statement
 		* Multiple print statements
 */
-func exercise1() {
+package main
+
+import "fmt"
+
+func main() {
 	// 1.
 	x := 42
 	y := "James Bond"
