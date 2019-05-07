@@ -14,12 +14,12 @@ func main() {
 	x := 42
 	fmt.Printf("Decimal: %d\n", x)
 	fmt.Printf("Binary: %b\n", x)
-	fmt.Printf("Hexadecimal: %#X\n", x)
+	fmt.Printf("Hexadecimal: %#x\n", x)
 
 	fmt.Println()
 
 	y := x << 1
 	fmt.Printf("Decimal: %d\n", y)
 	fmt.Printf("Binary: %b\n", y)
-	fmt.Printf("Hexadecimal: %#X\n", y)
+	fmt.Printf("Hexadecimal: %#x\n", y)
 }
