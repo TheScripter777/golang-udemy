@@ -22,4 +22,8 @@ func main() {
 	fmt.Printf("Decimal: %d\n", y)
 	fmt.Printf("Binary: %b\n", y)
 	fmt.Printf("Hexadecimal: %#x\n", y)
+
+	fmt.Printf("\n\nBinary comparison\n")
+	fmt.Printf("%d\t\t%b\n", x, x)
+	fmt.Printf("%d\t\t%b\n", y, y)
 }
