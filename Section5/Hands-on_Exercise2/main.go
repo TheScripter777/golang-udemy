@@ -1,5 +1,5 @@
 /**
-Section 5 -- 29. Hands-on exercise #2
+Section 5 -- Hands-on exercise #2
 	1. Use var to DECLARE three variables. The variables should have package level scope. Do not assign VALUES to the
 		variables. Use the following IDENTIFIERS for the variables and make sure the variables are of the following type
 		(meaning they can store values of that TYPE)

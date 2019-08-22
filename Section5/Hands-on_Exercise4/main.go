@@ -1,5 +1,5 @@
 /**
-Section 5 -- 31. Hands-on exercise #4
+Section 5 Hands-on exercise #4
 For this exercise
 	1. Create your own type. Have the underlying type be an int.
 	2. Create a VARIABLE of your new TYPE with the IDENTIFIDER "x" using the var keyword

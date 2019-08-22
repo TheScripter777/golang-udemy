@@ -1,5 +1,5 @@
 /**
-Section 7 -- 45. Hands-on exercise #4
+Section 7 -- Hands-on exercise #4
 Using iota, create 4 constants for the last 4 years. Print the constant values
 */
 package main

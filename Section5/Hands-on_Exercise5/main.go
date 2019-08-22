@@ -1,5 +1,5 @@
 /**
-Section 5 -- 32. Hands-on exercise #5
+Section 5 -- Hands-on exercise #5
 Building on the code from the previous example
 	1. at the package level scope, using the var keyword, create a VARIABLE with the IDENTIFIER "y". The variable
 	   should be of the UNDERLYING TYPE of your custom TYPE "x"

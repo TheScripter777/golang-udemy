@@ -1,5 +1,5 @@
 /**
-Section 7 -- 42. Hands-on exercise #1
+Section 7 -- Hands-on exercise #1
 Write a program that prints a number in decimal, binary and hex
  */
 package main

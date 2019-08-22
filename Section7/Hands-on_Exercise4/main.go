@@ -1,5 +1,5 @@
 /**
-Section 7 -- 45. Hands-on exercise #4
+Section 7 -- Hands-on exercise #4
 Write a program that
 	* Assigns an int to a variable
 	* Prints that int in decimal, binary and hex

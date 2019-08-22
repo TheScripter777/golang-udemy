@@ -1,5 +1,5 @@
 /**
-Section 5 -- 28. Hands-on exercise #1
+Section 5 -- Hands-on exercise #1
 	1. Using the short declaration operator, ASSIGN these VALUES to VARIABLES with the IDENTIFIERS "x" and "y" and "z"
     	* 42
     	* "James Bond"

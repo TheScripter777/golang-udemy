@@ -1,5 +1,5 @@
 /**
-Section 7 -- 43. Hands-on exercise #2
+Section 7 -- Hands-on exercise #2
 Using the following operators, write expressions and assign their values to variables:
 	==
 	<=

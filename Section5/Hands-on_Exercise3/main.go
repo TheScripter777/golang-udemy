@@ -1,5 +1,5 @@
 /**
-Section 5 -- 30. Hands-on exercise #3
+Section 5 -- Hands-on exercise #3
 Using the code from the previous exercise,
 	1. At the package level scope, assign the following values to the three variables
 		* for x assign 42
