@@ -22,3 +22,27 @@ func main() {
 		fmt.Println("Multiple cases... true")
 	}
 }
+
+// switch with no expression evaluates to true
+func unhex(c byte) byte {
+	switch {
+	case '0' <= c && c <= '9':
+		return c - '0'
+	case 'a' <= c && c <= 'f':
+		return c - 'a' + 10
+	case 'A' <= c && c <= 'F':
+		return c - 'A' + 10
+	}
+
+	return 0
+}
+
+// no automatic fall through, but cases can be presented in comma-separeted lists
+func shouldEscape(c byte) bool {
+	switch c {
+	case ' ', '?', '&', '=', '#', '+', '%':
+		return true
+	}
+
+	return false
+}
